@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsuphona
-- 👀 I’m interested in Algorithms and Embedded Software Development
-- 🌱 I’m currently learning everything related to programming
-- 💞️ I’m looking to collaborate on new ideas of how to make the world a better place
+- 👀 I’m interested in Algorithms and Embedded Software Development.
+- 🌱 I’m currently learning everything related to programming, more specifically C++, CMake and Ninja. 
+- 💞️ I’m looking to collaborate on new ideas of how to make the world a better place.
 - 📫 How to reach me email: thomas.suphona@gmail.com
 
 <!---
